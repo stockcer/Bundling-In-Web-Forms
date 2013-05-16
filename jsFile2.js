@@ -1,0 +1,1 @@
+﻿alert('jsFile2.js')
